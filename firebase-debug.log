@@ -1,0 +1,21 @@
+[debug] [2017-10-06T03:49:56.783Z] ----------------------------------------------------------------------
+[debug] [2017-10-06T03:49:56.786Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2017-10-06T03:49:56.786Z] CLI Version:   3.13.1
+[debug] [2017-10-06T03:49:56.786Z] Platform:      win32
+[debug] [2017-10-06T03:49:56.786Z] Node Version:  v6.11.3
+[debug] [2017-10-06T03:49:56.786Z] Time:          Thu Oct 05 2017 20:49:56 GMT-0700 (Pacific Daylight Time)
+[debug] [2017-10-06T03:49:56.786Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-06T03:49:56.798Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-10-06T03:49:56.798Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\AndroidStudio Projects\Pluralsight\TabianConsulting
+
